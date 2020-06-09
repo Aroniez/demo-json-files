@@ -8,8 +8,15 @@
        "created_at": "01-01-2020 12:00:00", 
        "title": "This is a great title", 
        "level": "primary", 
-       "grade": "1", 
-       "time_limit": "20" 
+       "grade": "1",
+       "number_of_questions": 1,
+       "time_limit": 50,
+       "full_test": false, 
+       "has_choices": true,
+       "is_free": true,
+       "is_valid": false,
+       "subject_id": 1,
+       "has_answers": false
       }
     ]
   }
