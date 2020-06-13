@@ -19,5 +19,41 @@
        "has_answers": false
       }
     ]
+  },
+  "questions": {
+    "success": true,
+    "message": "Data retrieved successfully",
+    "data":[
+      { 
+       "id": 1, 
+       "created_at": "01-01-2020 12:00:00", 
+       "question": "This is a random question", 
+       "option_a": "Option A",
+       "option_b": "Option B",
+       "option_c": "Option C",
+       "option_d": "Option D", 
+       "hint": "1",
+       "answer": "D",
+       "answer_explanation": "No explanation provided",
+       "points": 2,
+       "position": 1,
+       "is_valid": false
+      },
+      { 
+       "id": 2, 
+       "created_at": "01-01-2020 12:00:00", 
+       "question": "Which of this country has the highest population?", 
+       "option_a": "Germany",
+       "option_b": "Erithrea",
+       "option_c": "India",
+       "option_d": "Canada", 
+       "hint": "It is in Asia",
+       "answer": "C",
+       "answer_explanation": "",
+       "points": 2,
+       "position": 2,
+       "is_valid": false
+      }
+    ]
   }
 }
