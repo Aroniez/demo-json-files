@@ -55,6 +55,38 @@
        "position": 2,
        "exam_id": 1,
        "is_valid": false
+      },
+      { 
+       "id": 3, 
+       "created_at": "01-01-2020 12:00:00", 
+       "question": "Which one of the following is correctly spelt", 
+       "option_a": "Execise",
+       "option_b": "Exercice",
+       "option_c": "Excercise",
+       "option_d": "Exersise", 
+       "hint": "1",
+       "answer": "C",
+       "answer_explanation": "No explanation provided",
+       "points": 2,
+       "exam_id": 1,
+       "position": 1,
+       "is_valid": false
+      },
+      { 
+       "id": 4, 
+       "created_at": "01-01-2020 12:00:00", 
+       "question": "What is 50+6?", 
+       "option_a": "506",
+       "option_b": "56",
+       "option_c": "60",
+       "option_d": "65", 
+       "hint": "",
+       "answer": "B",
+       "answer_explanation": "",
+       "points": 2,
+       "position": 2,
+       "exam_id": 1,
+       "is_valid": false
       }
     ]
   }
