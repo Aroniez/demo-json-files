@@ -36,6 +36,7 @@
        "answer": "D",
        "answer_explanation": "No explanation provided",
        "points": 2,
+       "exam_id": 1,
        "position": 1,
        "is_valid": false
       },
@@ -52,6 +53,7 @@
        "answer_explanation": "",
        "points": 2,
        "position": 2,
+       "exam_id": 1,
        "is_valid": false
       }
     ]
